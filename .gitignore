@@ -1,3 +1,4 @@
 .idea
 venv
 src/engine/__pycache__/
+auto_server/__pycache__/
